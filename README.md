@@ -30,9 +30,10 @@ There three main topics taken into consideration.
 3) correlation between phobias and health habits
 
 Conclusions:
+
 AD1:
 movie preferences --> movies, in general, are enjoyed by almost everyone. When it comes to movie types, comedies are number one, whereas horrors and western take the last place.
-The main differences between male and female choices are in romantic movies (those are prefered by women) and war and action movies (men choice)
+The main differences between male and female choices are in romantic movies (those are preferred by women) and war and action movies (men choice)
 
 AD2:
 demographic data vs spending habits --> spending on looks correlates with enjoying going to large shopping centres, spending on gadgets correlates to taking care of branded items. Women would rather enjoy shopping centres and would spend money on their appearance, whereas men would rather spend money on the gadgets
