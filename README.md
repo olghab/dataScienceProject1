@@ -41,5 +41,6 @@ demographic data vs spending habits --> spending on looks correlates with enjoyi
 AD3:
 phobias vs health habits --> Generally, as soon as someone is afraid of one thing, it's likely that other fears exist. If someone drinks more than often, it's more likely that he/she smokes as well. There are no obvious correlations between health habits and fears. The strongest correlation is between Rats and Snakes, what additionally shows diagram below.
 
-More to find on the blog: 
+More to find on the blog: https://olga-haberny.medium.com/what-do-we-really-know-about-young-people-2d2d393d362d
+
 
